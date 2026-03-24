@@ -1,0 +1,19 @@
+5 Etapas do Cientista de Dados
+
+    - 1 Questões 
+    - 2 Preparacao
+    - 3 Exploração
+    - 4 Conclusões
+    - 5 Comunicação
+
+
+Tal como Business Intelligence, Data Science é muito amplo, e constuma causar confusão quanto aos conceitos e áreas.
+
+Introdução de Data Sciente
+
+O que há em comum nas seguintes empresas:
+
+ Youtube, Google Drive, Netflix, Facebook...
+
+Em comuns elas possuí a Geração de dados em massa + Web
+
