@@ -34,4 +34,36 @@ ONDE PODEMOS APLICAR O DATA SCIENCE
 
 Negócios apresentam problemas, que nescessitam de solucoe, que por sua vez, necessitam de decisoes tomadas em cima de dados! 
 
+#################################################
+4 . Data Science  - INTRODUCAO PARTE02
+
+O que é um INSIGHT?
+Negócios apresentam problemas, que necessitam de soluções, que por sua vez, nescessitam de "decisões tomadas em cima de dados"!
+
+O processo de decisão deve ser SEMPRE baseado em "dados", por isso a importância dos insigths.
+
+O que faz a ciência de dados ?
+Coleta dados de várias fontes, analisando e ajudando na tomada de decisões de forma "preditiva" e em grandes quantidades, gerando insights.
+
+
+PLANEJAMENTO NÃO É CERTEZA
+
+BUSINESS INTELLIGENCE (TRABALHA COM DADOS DO PASSADO) X DATA SCIENCE (PREVE O QUE VAI ACONTECER NO FUTURO) 
+
+CIÊNCIA DE DADOS É O PROCESSO DE>
+            QUE EXTRAI DADOS
+                DE DIVERSAS FONTES 
+                    EM DIFERENTES VELOCIDADES 
+                        PROCESSANDO GRANDES QUANTIDADES
+                            GERANDO VALOR
+
+
+DATA SCIENCE NÃO É UMA FERRAMENTA. É UM CONJUNTO DE MÉTODOS
+O BIG DATA EVIDENCIOU O CIÊNCIA DE DADOS
+
+PRECISA SABER MUITO BEM: MATEMÁTTICA E ESTATÍSTICA
+PRECISA ENTENDER DO NEGOCIO (REGRA DE Negócios)
+MINING E VISUALIZAÇÃO DE DADOS
+PROGRAMAÇÃO E COMPUTAÇÃO
+
 
