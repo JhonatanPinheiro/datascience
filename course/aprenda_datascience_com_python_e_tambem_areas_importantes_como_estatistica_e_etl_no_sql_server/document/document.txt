@@ -17,3 +17,21 @@ O que há em comum nas seguintes empresas:
 
 Em comuns elas possuí a Geração de dados em massa + Web
 
+
++ informacoes
++ poder
+= pessoas para interpreta-las
+
+Com a importância da informação, a profissão de cientista de dados é a que mais cresce atualmente! 
+
+ONDE PODEMOS APLICAR O DATA SCIENCE
+ - VAREJO
+ - RECONHECIMENTO DE VOZ (DEEP LEARNING)  
+ - SAÚDE (APARELHO DE MONITORAMENTO)
+ - COMUNICAÇÃO 
+ - SEGURANÇA (Digital, Face ID, etc...)
+
+
+Negócios apresentam problemas, que nescessitam de solucoe, que por sua vez, necessitam de decisoes tomadas em cima de dados! 
+
+
