@@ -67,3 +67,39 @@ MINING E VISUALIZAÇÃO DE DADOS
 PROGRAMAÇÃO E COMPUTAÇÃO
 
 
+#################################################
+5 . Data Science  - INTRODUCAO PARTE03
+
+POR SER UM CONJUNTO DE MÉTODOS, A CIÊNCIA DE DADOS POSSUI ALGUMAS ÁREAS CORRELATAS, DIVIDIDAS EM SUB ÁREAS.
+
+MACHINE LEARNING É O CORAÇÃO DA CIENCIA DE DADOS
+
+ENGENHARIA DE DADOS : Onde nos referimos ao profissionl capaz de projetar o armazenamento de grandes quantidades de dados
+PENSAMENTO LÓGICO: Capacidade do profissional de analisar os dados e aprender algo novo com ele, agregando aos Negócios
+
+
+VIRTUALIZACAO E CLOUD
+    O Armazenamento de grandes massas de dados consequentemente requer um poder maior de processamento. Isso favorece ao crescimento de áreas como BigData e NoSQL e com isso, o processamento horizontal (Big Data)
+
+
+Bancos de Dados não Relacionais
+
+O conceito mais básico de Machine Learning. Robôs atuando na linha de produção
+Machine Learning é uma sub área de inteligência Artificial
+
+
+FUNCIONAMENTO GERAK DE MACHINE LEARNING - PROGRAMADORES AS MÁQUINAS PARA APRENDEREM COM OS DADOS COLETADOS
+
+COLETA DE DADOS => APRENDIZAGEM COM ALGORITMOS DE MACHINE LEARNING => SAÍDA PRODUZIDA PARA O USUÁRIO
+(1)             => (2)                                             => (3)
+
+
+DATA SCIENCE E ESTATÍSTICA
+Anteriormente vimos que aprendizado de máquina dá-se pela coleta de dados, aprendizagem e saída de um resultado. De uma maneira simples , podemos definir estatística da seguinte forma:
+
+
+Definição de um problema => coleta dos dados => Organização dos Dados => Aplicação de métodos estatísticos => saída
+
+ALGORITMOS de Machine Learning utilizam estatística!!
+
+
