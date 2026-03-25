@@ -103,3 +103,11 @@ Definição de um problema => coleta dos dados => Organização dos Dados => Apl
 ALGORITMOS de Machine Learning utilizam estatística!!
 
 
+#################################################
+6 . Data Science  - INTRODUCAO PARTE03
+
+    1- RELATÓROS
+    2 - STORYTELLING
+    3 - DASHBOARDS
+    4 - APLICAÇÕES
+
