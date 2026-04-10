@@ -126,4 +126,8 @@ https://trends.google.com/trends/
     O Analista de Tecnologia, tal como na área de BI, a área de Data Science também precisa do profissional com perfil de Tecnológica e de infraestrutura, pois devido à quantidade de dados, é necessária a administracão de clusters para processamento paralelo dos dados, sejam eles relacionais não estruturados 
 
 ##############################################
+9 - Ciclo de Vida BI
+
+DADOS PUROS  => ETL => DW => ANALISE => VISUALIZACAO ====> INSIGHTS
+ 
 
