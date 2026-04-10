@@ -111,3 +111,19 @@ ALGORITMOS de Machine Learning utilizam estatística!!
     3 - DASHBOARDS
     4 - APLICAÇÕES
 
+
+################################################
+7. BIG DATA REAL TIME E CLOUD COMPUTING
+
+https://trends.google.com/trends/
+
+###############################################
+8. Carreiras de Data Science
+    O Cientista de Dados, esse profissional tem um forte background em exatas, como , ciência da computacao, matemática e estatística. É capas de analisar grandes quantidades de dados e chegar à conclusões. É um perfil mais completo, equivalendo ao Analista de Business Intelligence! 
+
+    O Analista de Negócios, tal como na área de BI, área de Data Science também precisa do profissional com perfil de negócios, que seja capaz entender o coracao da empresa, sugerindo novas práticas ou negócios de forma a gerar mais valor! 
+    
+    O Analista de Tecnologia, tal como na área de BI, a área de Data Science também precisa do profissional com perfil de Tecnológica e de infraestrutura, pois devido à quantidade de dados, é necessária a administracão de clusters para processamento paralelo dos dados, sejam eles relacionais não estruturados 
+
+##############################################
+
